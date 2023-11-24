@@ -302,6 +302,7 @@ MSI          | B150I                              |             |             
 MSI          | G31TM-P21                          | rge, audiohd | Intel G31/ICH7 Chipset<ul><li>Realtek RTL8101/8102E: SUPPORTED</li><li>ICH7 audio: SUPPORTED</li><li>Intel GMA3100: UNKNOWN (I haven't tried the built-in video)</li></ul> | Philip Robar
 MSI          | MS 7069                            | bge         | works with Celeron 3ghz X with onboard graphics      | Quentin Sanchez
 MSI          | MS 7301                            | vr          | works with Pentium D and X                           | Quentin Sanchez
+MSI          | MS 7D09                            | audiohd     | Tested with 11700K. Sound works, SATA works, onboard Intel iGPU and I-225V NIC don't work. | Jeremy Andrews
 SuperMicro   | A1SAi-2750F                        |             |                                                      |  
 SuperMicro   | A1SRi-2758F                        |             |                                                      |  
 SuperMicro   | H8SGL-F                            |             |                                                      | Richard Palo
